@@ -1,1 +1,1 @@
-# SPAM
+# SPAM (Streamflow Prediction & Assessment Model)
