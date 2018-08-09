@@ -1,2 +1,2 @@
 # SPAM (Streamflow Prediction & Assessment Model)
-Code (and winter) is coming
+Code is pending software release
